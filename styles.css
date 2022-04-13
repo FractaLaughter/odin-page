@@ -1,7 +1,7 @@
 * {
     font-family: Roboto, Helvetica, sans-serif;
     margin: 0;
-    padding: 2px;
+    /*padding: 2px;
     border-style: solid;
     border-color:red;
     border-width: 1px;
@@ -10,7 +10,7 @@ loom-container, loom-shadow{
     padding: 0px;
     background-color:none;
     border-style:none;
-    border-width: 0px; /* */
+    border-width: 0px;  */
 }
 nav, .contents{
     display: flex;
